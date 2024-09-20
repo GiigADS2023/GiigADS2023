@@ -1,4 +1,4 @@
-<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fwallpaper%2Fcomments%2Fwlz9uo%2Fmy_collection_of_8_bit_live_wallpaper_gifs%2F&psig=AOvVaw1bTCuHGqqLBtRXH8EnE7BX&ust=1726941430079000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMi9-KWM0ogDFQAAAAAdAAAAABAQ" height="100" width="150" /></a>
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fwallpaper%2Fcomments%2Fwlz9uo%2Fmy_collection_of_8_bit_live_wallpaper_gifs%2F&psig=AOvVaw1bTCuHGqqLBtRXH8EnE7BX&ust=1726941430079000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMi9-KWM0ogDFQAAAAAdAAAAABAQ)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Giorgia Batista Schmidt</h1>
 <h3 align="center">A passionate FullStack Developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/v2/resize:fit:720/0*41inHKnPhGb04HsO.gif">
