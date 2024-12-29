@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=giigads2023&label=Profile%20views&color=0e75b6&style=flat" alt="giigads2023" /> </p>
 
-- 🔭 I’m currently working on **API Web com o ASP.NET Core**
+- 🔭 I’m currently working on **API Web with ASP.NET Core**
 
 - 🌱 I’m currently learning **System Analysis of Development**
 
