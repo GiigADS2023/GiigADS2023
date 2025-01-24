@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/51/4f/3f/514f3fccb71047d780be491c435a79e1.gif)](https://rishavchanda.io)
+[![MasterHead](https://i.redd.it/0k6meqvps4h91.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Giorgia Batista Schmidt</h1>
 <h3 align="center">A passionate FullStack Developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/v2/resize:fit:720/0*41inHKnPhGb04HsO.gif">
